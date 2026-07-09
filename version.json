@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   "apk_url": "https://raw.githubusercontent.com/psyberpunk/rgm-updates/refs/heads/main/RGM_Sports.apk",
-  "changelog": "Fix eventos en vivo en TV sticks (Fire TV / Xiaomi TV Stick / TV boxes). Bypass deteccion UiModeManager TELEVISION, leanback y com.google.android.tv. is_tv forzado a false. Conserva fix anti-debug de v13."
+  "changelog": "Fix eventos en vivo en TV sticks. Bypass root detection (cd/b) + todos los lectores de is_tv parchados a false. Funciona en Fire TV, Xiaomi TV Stick, TV boxes y celulares."
 }
