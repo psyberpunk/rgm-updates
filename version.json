@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "apk_url": "https://raw.githubusercontent.com/psyberpunk/rgm-updates/refs/heads/main/RGM_Sports.apk",
-  "changelog": "Boton de compartir ahora envia el enlace oficial RGM Sports."
+  "changelog": "Fix eventos en vivo en Fire TV Stick. Parche anti-deteccion en libnative-lib.so (TracerPid, scan maps, puertos Frida). Funciona en celular y Firestick."
 }
