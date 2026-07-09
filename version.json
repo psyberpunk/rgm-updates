@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "apk_url": "https://raw.githubusercontent.com/psyberpunk/rgm-updates/refs/heads/main/RGM_Sports.apk",
-  "changelog": "Fix eventos en vivo en Fire TV Stick. Parche anti-deteccion en libnative-lib.so (TracerPid, scan maps, puertos Frida). Funciona en celular y Firestick."
+  "changelog": "Fix eventos en vivo en TV sticks (Fire TV / Xiaomi TV Stick / TV boxes). Bypass deteccion UiModeManager TELEVISION, leanback y com.google.android.tv. is_tv forzado a false. Conserva fix anti-debug de v13."
 }
