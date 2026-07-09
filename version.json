@@ -1,5 +1,5 @@
 {
-  "version": 14,
+  "version": 15,
   "apk_url": "https://raw.githubusercontent.com/psyberpunk/rgm-updates/refs/heads/main/RGM_Sports.apk",
-  "changelog": "Arreglo real de eventos EN VIVO y STREAMS en TV sticks 32-bit (Xiaomi TV Stick 1080p, Fire TV, TV boxes) via proxy CDN. Reemplaza el intento anterior de root-detection."
+  "changelog": "Auto-refresh de eventos cada 2 min (se pausa mientras ves un stream, no lo interrumpe) + fix eventos/streams en TV sticks 32-bit via proxy CDN."
 }
