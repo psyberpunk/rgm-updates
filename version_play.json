@@ -1,5 +1,8 @@
 {
-  "version": 10,
-  "apk_url": "https://github.com/psyberpunk/rgm-updates/releases/download/play-v18/RGMPlay_v18.apk",
-  "changelog": "Addons ahora se gestionan solo desde el panel. Subtítulos en español al 120% en amarillo, audio original."
+  "version": 11,
+  "apk_url": "https://github.com/psyberpunk/RGMPlay-downloads/releases/download/v2.5.0/RGMPlay-arm64.apk",
+  "apk_url_64": "https://github.com/psyberpunk/RGMPlay-downloads/releases/download/v2.5.0/RGMPlay-arm64.apk",
+  "apk_url_32": "https://github.com/psyberpunk/RGMPlay-downloads/releases/download/v2.5.0/RGMPlay-arm32.apk",
+  "apk_url_tv": "https://github.com/psyberpunk/RGMPlay-downloads/releases/download/v2.5.0/RGMPlay-tv.apk",
+  "changelog": "Mejoras internas de rendimiento y estabilidad."
 }
