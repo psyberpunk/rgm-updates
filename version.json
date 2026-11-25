@@ -1,5 +1,6 @@
 {
-  "version": 22,
-  "apk_url": "https://raw.githubusercontent.com/psyberpunk/rgm-updates/refs/heads/main/RGM_Sports.apk",
-  "changelog": "Ahora la app muestra tu usuario, la fecha de vencimiento y tus dispositivos (activos/total)."
+  "versionCode": 3,
+  "versionName": "2.0.2",
+  "apk_url": "https://raw.githubusercontent.com/psyberpunk/rgm-updates/main/RGM_Sports.apk",
+  "changelog": "Favoritos: agrega/quita canales con la estrella. Nuevos canales UK, Canada y PM (24/7) en Sports. Mejoras de reproduccion."
 }
