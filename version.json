@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "2.0.2",
+  "versionCode": 4,
+  "versionName": "2.0.3",
   "apk_url": "https://raw.githubusercontent.com/psyberpunk/rgm-updates/main/RGM_Sports.apk",
-  "changelog": "Favoritos: agrega/quita canales con la estrella. Nuevos canales UK, Canada y PM (24/7) en Sports. Mejoras de reproduccion."
+  "changelog": "Mejoras de seguridad (anti-manipulacion), Favoritos y nuevos canales UK/Canada/PM."
 }
