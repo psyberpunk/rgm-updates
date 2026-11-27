@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "2.0.4",
+  "versionCode": 6,
+  "versionName": "2.0.5",
   "apk_url": "https://raw.githubusercontent.com/psyberpunk/rgm-updates/main/RGM_Sports.apk",
-  "changelog": "Corrige un cierre inesperado al navegar entre eventos. Mejoras de seguridad, Favoritos y nuevos canales."
+  "changelog": "Corrige el cierre al abrir un canal y volver a eventos en vivo. Mejoras de estabilidad."
 }
